@@ -9,6 +9,7 @@
     "categories": [
         "Themes"
     ],
+    "publisher": "bosiakov",
     "contributes": {
         "themes": [
             {
