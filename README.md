@@ -1,6 +1,19 @@
-# Sadhu Theme
+# ![Icon](https://raw.githubusercontent.com/bosiakov/vscode-theme-sadhu/main/icon.png) Sadhu Theme
 
 An ascetic vscode theme for those who have found Bodhi.
+
+![Screenshot](https://raw.githubusercontent.com/bosiakov/vscode-theme-sadhu/main/screenshot.png)
+
+## Recommended VS Code settings
+
+To achieve the lowest level of visual noise, we recommend the following settings (`Ctrl + ,` or `Ctrl + Shift + p -> Open Settings (JSON)`):
+
+```
+    "breadcrumbs.enabled": false,
+    "editor.lineNumbers": "off",
+    "editor.renderIndentGuides": false,
+    "editor.minimap.enabled": false
+```
 
 ## Motivation
 
@@ -10,7 +23,6 @@ Sadhu uses minimal highlighting and does not highlight standard language keyword
 
 Sadhu doesn’t use font variations. It’s hard to scan code when it jumps between normal, **bold** and *italics* all the time.
 
-![Screenshot](https://raw.githubusercontent.com/bosiakov/vscode-theme-sadhu/main/screenshot.png)
 
 ## Install
 
