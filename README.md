@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/bosiakov/vscode-theme-sadhu/main/icon.png" width="50"> Sadhu Theme
+# Sadhu Theme
 
 An ascetic vscode theme for those who have found Bodhi.
 
